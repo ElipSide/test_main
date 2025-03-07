@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <script>
+        function onClickShow(element,id){
+            element.children[0].classList.toggle('flipped');
+            const items = document.querySelectorAll('.orders__item__licenses');
+            items[id].classList.toggle('hidden');
+        }
+    </script>
+</head>
+<body>
+    <div class="orders__container">
+        <div class="orders__title">Мои заказы:</div>
+        <div class="orders__items">
+          <div class="orders__item">
+            <div class="orders__item__title">Заказ номер 14241</div>
+            <div class="orders__item__description">Описание заказа: </div>
+            <div class="orders__item__show">
+                <div class="orders__item__show__text">Лицензии:</div>
+                <button class="orders__item__show__btn" onclick="onClickShow(this, 0)">
+                    <span class="">^</span>
+                </button>
+            </div>
+            <div class="orders__item__licenses hidden">
+                <div>license: XXX-2313-XGG-DASD-23</div>
+                <div>license: XXX-2313-XGG-DASD-23</div>
+                <div>license: XXX-2313-XGG-DASD-23</div>
+                <div>license: XXX-2313-XGG-DASD-23</div>
+                <div>license: XXX-2313-XGG-DASD-23</div>
+            </div>
+          </div>
+          <div class="orders__item">
+            <div class="orders__item__title">Заказ номер 14241</div>
+            <div class="orders__item__description">Описание заказа: </div>
+            <div class="orders__item__show">
+                <div class="orders__item__show__text">Лицензии:</div>
+                <button class="orders__item__show__btn" onclick="onClickShow(this, 1)">
+                    <span class="">^</span>
+                </button>
+            </div>
+            <div class="orders__item__licenses hidden">
+                <div>license: 111-1111-111-1111-11</div>
+                <div>license: 111-1111-111-1111-11</div>
+                <div>license: 111-1111-111-1111-11</div>
+                <div>license: 111-1111-111-1111-11</div>
+                <div>license: 111-1111-111-1111-11</div>
+            </div>
+          </div>
+          <div class="orders__item">
+            <div class="orders__item__title">Заказ номер 14241</div>
+            <div class="orders__item__description">Описание заказа: </div>
+            <div class="orders__item__show">
+                <div class="orders__item__show__text">Лицензии:</div>
+                <button class="orders__item__show__btn" onclick="onClickShow(this, 2)">
+                    <span class="">^</span>
+                </button>
+            </div>
+            <div class="orders__item__licenses hidden">
+                <div>license: 222-2222-222-2222-22</div>
+                <div>license: 222-2222-222-2222-22</div>
+                <div>license: 222-2222-222-2222-22</div>
+                <div>license: 222-2222-222-2222-22</div>
+                <div>license: 222-2222-222-2222-22</div>
+            </div>
+          </div>
+          <div class="orders__item">
+            <div class="orders__item__title">Заказ номер 14241</div>
+            <div class="orders__item__description">Описание заказа: </div>
+            <div class="orders__item__show">
+                <div class="orders__item__show__text">Лицензии:</div>
+                <button class="orders__item__show__btn" onclick="onClickShow(this, 3)">
+                    <span class="">^</span>
+                </button>
+            </div>
+            <div class="orders__item__licenses hidden">
+                <div>license: 333-3333-333-3333-33</div>
+                <div>license: 333-3333-333-3333-33</div>
+                <div>license: 333-3333-333-3333-33</div>
+                <div>license: 333-3333-333-3333-33</div>
+                <div>license: 333-3333-333-3333-33</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          Создать заказ?
+          <button id="btn-onClickBuy" onclick="onClickBuy()">Купить лицензию</button>
+        </div>
+      </div>
+    
+</body>
+</html>
