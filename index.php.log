@@ -1,0 +1,136 @@
+$_REQUEST = array (
+  'back_url_admin' => '/bitrix/admin/site_admin.php?lang=ru',
+)
+
+$_SERVER = array (
+  'HTTPS' => 'on',
+  'UNIQUE_ID' => 'Z457RQ0fBkA9vUydOHR97gAAAAI',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://xn--b1aainygqk2c.xn--p1ai:443/',
+  'REMOTE_USER' => '',
+  'BITRIX_VA_VER' => '7.5.5',
+  'BITRIX_ENV_TYPE' => 'general',
+  'AUTHBIND_UNAVAILABLE' => 'yes',
+  'HTTP_X_FORWARDED_FOR' => '212.248.42.91',
+  'HTTP_HOST' => 'xn--b1aainygqk2c.xn--p1ai:443',
+  'HTTP_HTTPS' => 'YES',
+  'HTTP_X_FORWARDED_PROTO' => 'https',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_SEC_CH_UA' => '"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"',
+  'HTTP_SEC_CH_UA_MOBILE' => '?0',
+  'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+  'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+  'HTTP_DNT' => '1',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+  'HTTP_SEC_FETCH_SITE' => 'same-origin',
+  'HTTP_SEC_FETCH_MODE' => 'navigate',
+  'HTTP_SEC_FETCH_USER' => '?1',
+  'HTTP_SEC_FETCH_DEST' => 'document',
+  'HTTP_REFERER' => 'https://xn--b1aainygqk2c.xn--p1ai/bitrix/admin/site_admin.php?lang=ru',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+  'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.9,en;q=0.8,de;q=0.7,fr;q=0.6',
+  'HTTP_COOKIE' => 'BITRIX_SM_UIDD=q75skyzqard1u9kokd7j1wproq4t0010; BITRIX_SM_LOGIN=skv%40bl-g.ru; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; BITRIX_SM_LAST_SETTINGS=; BITRIX_SM_UIDH=4PXpqOCv1f9gi34YhPErAAv8HN9ORgG9; BITRIX_SM_UIDL=skv%40bl-g.ru; PHPSESSID=sr0cm14I0DfElB4VwpP2vQE1t98nHQu7',
+  'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache Server at xn--b1aainygqk2c.xn--p1ai Port 443</address>
+',
+  'SERVER_SOFTWARE' => 'Apache',
+  'SERVER_NAME' => 'xn--b1aainygqk2c.xn--p1ai',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '443',
+  'REMOTE_ADDR' => '212.248.42.91',
+  'DOCUMENT_ROOT' => '/home/bitrix/ext_www/pro.l-i-n.ru',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/bitrix/ext_www/pro.l-i-n.ru',
+  'SERVER_ADMIN' => 'webmaster@localhost',
+  'SCRIPT_FILENAME' => '/home/bitrix/ext_www/pro.l-i-n.ru/index.php',
+  'REMOTE_PORT' => '41482',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'back_url_admin=%2Fbitrix%2Fadmin%2Fsite_admin.php%3Flang%3Dru',
+  'REQUEST_URI' => '/?back_url_admin=%2Fbitrix%2Fadmin%2Fsite_admin.php%3Flang%3Dru',
+  'SCRIPT_NAME' => '/index.php',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME_FLOAT' => 1737390917.177589,
+  'REQUEST_TIME' => 1737390917,
+)
+
+SITE_ID = 's2'
+
+SITE_DIR = '/'
+
+SITE_SERVER_NAME = 'pro.l-i-n.ru'
+
+SITE_TEMPLATE_PATH = '/local/templates/lin_pro'
+
+SITE_TEMPLATE_ID = 'lin_pro'
+
+$_REQUEST = array (
+  'back_url_admin' => '/bitrix/admin/site_admin.php?lang=ru',
+)
+
+$_SERVER = array (
+  'HTTPS' => 'on',
+  'UNIQUE_ID' => 'Z457RQDbw4FY7BICgx6-9wAAAAM',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://xn--b1aainygqk2c.xn--p1ai:443/',
+  'REMOTE_USER' => '',
+  'BITRIX_VA_VER' => '7.5.5',
+  'BITRIX_ENV_TYPE' => 'general',
+  'AUTHBIND_UNAVAILABLE' => 'yes',
+  'HTTP_X_FORWARDED_FOR' => '212.248.42.91',
+  'HTTP_HOST' => 'xn--b1aainygqk2c.xn--p1ai:443',
+  'HTTP_HTTPS' => 'YES',
+  'HTTP_X_FORWARDED_PROTO' => 'https',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_SEC_CH_UA' => '"Not_A Brand";v="99", "Google Chrome";v="109", "Chromium";v="109"',
+  'HTTP_DNT' => '1',
+  'HTTP_SEC_CH_UA_MOBILE' => '?0',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36',
+  'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+  'HTTP_ACCEPT' => 'image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8',
+  'HTTP_SEC_FETCH_SITE' => 'same-origin',
+  'HTTP_SEC_FETCH_MODE' => 'no-cors',
+  'HTTP_SEC_FETCH_DEST' => 'image',
+  'HTTP_REFERER' => 'https://xn--b1aainygqk2c.xn--p1ai/?back_url_admin=%2Fbitrix%2Fadmin%2Fsite_admin.php%3Flang%3Dru',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br',
+  'HTTP_ACCEPT_LANGUAGE' => 'ru,en-US;q=0.9,en;q=0.8,de;q=0.7,fr;q=0.6',
+  'HTTP_COOKIE' => 'BITRIX_SM_UIDD=q75skyzqard1u9kokd7j1wproq4t0010; BITRIX_SM_LOGIN=skv%40bl-g.ru; BITRIX_SM_SOUND_LOGIN_PLAYED=Y; BITRIX_SM_LAST_SETTINGS=; BITRIX_SM_UIDH=4PXpqOCv1f9gi34YhPErAAv8HN9ORgG9; BITRIX_SM_UIDL=skv%40bl-g.ru; PHPSESSID=sr0cm14I0DfElB4VwpP2vQE1t98nHQu7',
+  'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache Server at xn--b1aainygqk2c.xn--p1ai Port 443</address>
+',
+  'SERVER_SOFTWARE' => 'Apache',
+  'SERVER_NAME' => 'xn--b1aainygqk2c.xn--p1ai',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '443',
+  'REMOTE_ADDR' => '212.248.42.91',
+  'DOCUMENT_ROOT' => '/home/bitrix/ext_www/pro.l-i-n.ru',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/bitrix/ext_www/pro.l-i-n.ru',
+  'SERVER_ADMIN' => 'webmaster@localhost',
+  'SCRIPT_FILENAME' => '/home/bitrix/ext_www/pro.l-i-n.ru/index.php',
+  'REMOTE_PORT' => '41484',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => 'back_url_admin=%2Fbitrix%2Fadmin%2Fsite_admin.php%3Flang%3Dru',
+  'REQUEST_URI' => '/?back_url_admin=%2Fbitrix%2Fadmin%2Fsite_admin.php%3Flang%3Dru',
+  'SCRIPT_NAME' => '/index.php',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME_FLOAT' => 1737390917.893974,
+  'REQUEST_TIME' => 1737390917,
+)
+
+SITE_ID = 's2'
+
+SITE_DIR = '/'
+
+SITE_SERVER_NAME = 'pro.l-i-n.ru'
+
+SITE_TEMPLATE_PATH = '/local/templates/lin_pro'
+
+SITE_TEMPLATE_ID = 'lin_pro'
+
