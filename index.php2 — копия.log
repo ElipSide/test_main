@@ -1,0 +1,69 @@
+$_REQUEST = array (
+)
+
+$_SERVER = array (
+  'HTTPS' => 'on',
+  'UNIQUE_ID' => 'Z4oxIbJ2E198qwFBnBWJXwAAAAA',
+  'SCRIPT_URL' => '/',
+  'SCRIPT_URI' => 'http://pro.l-i-n.ru:443/',
+  'REMOTE_USER' => '',
+  'BITRIX_VA_VER' => '7.5.5',
+  'BITRIX_ENV_TYPE' => 'general',
+  'AUTHBIND_UNAVAILABLE' => 'yes',
+  'HTTP_X_FORWARDED_FOR' => '212.248.42.91',
+  'HTTP_HOST' => 'pro.l-i-n.ru:443',
+  'HTTP_HTTPS' => 'YES',
+  'HTTP_X_FORWARDED_PROTO' => 'https',
+  'HTTP_CONNECTION' => 'close',
+  'HTTP_CACHE_CONTROL' => 'max-age=0',
+  'HTTP_SEC_CH_UA' => '"Chromium";v="128", "Not;A=Brand";v="24", "YaBrowser";v="24.10", "Yowser";v="2.5"',
+  'HTTP_SEC_CH_UA_MOBILE' => '?0',
+  'HTTP_SEC_CH_UA_PLATFORM' => '"Windows"',
+  'HTTP_DNT' => '1',
+  'HTTP_UPGRADE_INSECURE_REQUESTS' => '1',
+  'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36',
+  'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+  'HTTP_SEC_FETCH_SITE' => 'none',
+  'HTTP_SEC_FETCH_MODE' => 'navigate',
+  'HTTP_SEC_FETCH_USER' => '?1',
+  'HTTP_SEC_FETCH_DEST' => 'document',
+  'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br, zstd',
+  'HTTP_ACCEPT_LANGUAGE' => 'ru,en;q=0.9',
+  'HTTP_PRIORITY' => 'u=0, i',
+  'HTTP_COOKIE' => '_ym_uid=1737033318914798745; _ym_d=1737033318; _gid=GA1.2.440729756.1737033319; BX_USER_ID=06280dd35626c0651a40cabddd8d1833; _ym_isad=1; _ym_visorc=w; PHPSESSID=IAI9C2oAF7p7iS0mKouS4PKVtPQD4eTZ; _ga_JK5WGWE3HM=GS1.1.1737109342.3.1.1737109391.0.0.0; _ga=GA1.1.901089572.1737033319',
+  'PATH' => '/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin',
+  'SERVER_SIGNATURE' => '<address>Apache Server at pro.l-i-n.ru Port 443</address>
+',
+  'SERVER_SOFTWARE' => 'Apache',
+  'SERVER_NAME' => 'pro.l-i-n.ru',
+  'SERVER_ADDR' => '127.0.0.1',
+  'SERVER_PORT' => '443',
+  'REMOTE_ADDR' => '212.248.42.91',
+  'DOCUMENT_ROOT' => '/home/bitrix/ext_www/pro.l-i-n.ru',
+  'REQUEST_SCHEME' => 'http',
+  'CONTEXT_PREFIX' => '',
+  'CONTEXT_DOCUMENT_ROOT' => '/home/bitrix/ext_www/pro.l-i-n.ru',
+  'SERVER_ADMIN' => 'webmaster@localhost',
+  'SCRIPT_FILENAME' => '/home/bitrix/ext_www/pro.l-i-n.ru/index.php',
+  'REMOTE_PORT' => '43726',
+  'GATEWAY_INTERFACE' => 'CGI/1.1',
+  'SERVER_PROTOCOL' => 'HTTP/1.0',
+  'REQUEST_METHOD' => 'GET',
+  'QUERY_STRING' => '',
+  'REQUEST_URI' => '/',
+  'SCRIPT_NAME' => '/index.php',
+  'PHP_SELF' => '/index.php',
+  'REQUEST_TIME_FLOAT' => 1737109793.669996,
+  'REQUEST_TIME' => 1737109793,
+)
+
+SITE_ID = 's1'
+
+SITE_DIR = '/'
+
+SITE_SERVER_NAME = 'l-i-n.ru'
+
+SITE_TEMPLATE_PATH = '/local/templates/lin_template'
+
+SITE_TEMPLATE_ID = 'lin_template'
+
